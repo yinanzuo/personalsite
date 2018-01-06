@@ -28,12 +28,12 @@ function ShoppingListCheckOffService() {
     var service = this;
 
     var itemsToBuy = [
-        { name: "teas", quantity: 24 },
-        { name: "coffees", quantity: 24 },
-        { name: "cokes", quantity: 64 },
-        { name: "chocolates", quantity: 34 },
-        { name: "milks", quantity: 14 },
-        { name: "juices", quantity: 17 }];
+        { name: "HTML books", quantity: 23 },
+        { name: "CSS books", quantity: 35 },
+        { name: "Javascript books", quantity: 53 },
+        { name: "AngularJS books", quantity: 12 },
+        { name: "Bootstrap books", quantity: 24 },
+        { name: "PHP books", quantity: 64 }];
 
     var itemsBought = [];
 
